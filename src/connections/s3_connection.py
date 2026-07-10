@@ -41,7 +41,7 @@ class s3_operations:
 # Example usage
 if __name__ == "__main__":
     # Replace these with your actual AWS credentials and S3 details
-    BUCKET_NAME = "rsamp"
+    BUCKET_NAME = ""
     AWS_ACCESS_KEY = ""
     AWS_SECRET_KEY = ""
     FILE_KEY = "data.csv"  # Path inside S3 bucket
