@@ -173,5 +173,6 @@ cred.txt
 local_s3/
 
 models/
-data/
+/data
 notebooks/
+local_s3/
